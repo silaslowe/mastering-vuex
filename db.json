@@ -71,6 +71,62 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "id": 9143376,
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "werking?",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8658156,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Plant those trees",
+      "description": "We plants some trees",
+      "location": "Tree place",
+      "date": "2021-04-15T00:25:00.000Z",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 5041965,
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Houses",
+      "description": "House stuff",
+      "location": "Home",
+      "date": "2021-04-24T00:26:00.000Z",
+      "time": "13:00",
+      "attendees": []
+    },
+    {
+      "id": 3374885,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "learn",
+      "description": "learrn",
+      "location": "learn",
+      "date": "2021-07-17T00:27:00.000Z",
+      "time": "2:00",
+      "attendees": []
     }
   ]
 }
